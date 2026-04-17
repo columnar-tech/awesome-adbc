@@ -11,6 +11,7 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [Tools](#tools)
 - [Resources](#resources)
   - [Articles](#articles)
+  - [Examples](#examples)
   - [Videos](#videos)
 
 ## Official
@@ -55,6 +56,11 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [Data Wants to Be Free: Fast Data Exchange with Apache Arrow](https://arrow.apache.org/blog/2025/02/28/data-wants-to-be-free/) - Apache Arrow Blog post by Ian Cook, David Li, and Matt Topol.
 - [Fast Streaming Inserts in DuckDB with ADBC](https://arrow.apache.org/blog/2025/03/10/fast-streaming-inserts-in-duckdb-with-adbc/) - Apache Arrow Blog post by Loïc Alleyne.
 - [DuckDB ADBC – Zero-Copy Data Transfer via Arrow Database Connectivity](https://duckdb.org/2023/08/04/adbc) - DuckDB Engineering Blog post by Pedro Holanda.
+
+### Examples
+
+- [ADBC Quickstarts](https://github.com/columnar-tech/adbc-quickstarts) - Simple examples showing how to use ADBC with various databases and query engines.
+- [Columnar Cookbook](https://cookbook.columnar.tech/) - Recipes for database connectivity and data interchange with Arrow and ADBC.
 
 ### Videos
 
