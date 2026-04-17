@@ -60,3 +60,5 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 
 - [Making Moves with Arrow Data: Introducing Arrow Database Connectivity (ADBC)](https://www.youtube.com/watch?v=ot_lOcBCaH4) - Data Council talk by Matt Topol.
 - [Where We’re Going, We Don’t Need Rows: Columnar Data Connectivity with Apache Arrow ADBC](https://www.youtube.com/watch?v=TjlmNGNx77E) - CMU Database Group seminar by Ian Cook.
+- [From ODBC to ADBC: Modernizing the Data Stack for AI and Analytics](https://www.youtube.com/watch?v=j75BIlqzhUk) - The Joe Reis Show episode with Ian Cook.
+- [ODBC Takes an Arrow to the Kne](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-4803-odbc-takes-an-arrow-to-the-knee/) - FOSDEM talk by Matt Topol.
