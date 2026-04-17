@@ -11,7 +11,7 @@ All contributors are expected to follow the [Code of Conduct](https://github.com
 
 ## Workflow
 
-1. Fork the repository: https://github.com/columnar-tech/awesome-adbc/fork.
+1. Fork the repository: <https://github.com/columnar-tech/awesome-adbc/fork>.
 
 2. Clone the forked repository:
 

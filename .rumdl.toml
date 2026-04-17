@@ -3,6 +3,3 @@ respect-gitignore = true
 
 [MD013]
 line-length = 0
-
-[MD044]
-names = ["ADBC"]
