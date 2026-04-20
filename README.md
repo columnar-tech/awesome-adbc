@@ -13,6 +13,7 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
   - [Articles](#articles)
   - [Examples](#examples)
   - [Videos](#videos)
+- [Community Bindings](#community-bindings)
 
 ## Official
 
@@ -56,6 +57,9 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [Data Wants to Be Free: Fast Data Exchange with Apache Arrow](https://arrow.apache.org/blog/2025/02/28/data-wants-to-be-free/) - Apache Arrow Blog post by Ian Cook, David Li, and Matt Topol.
 - [Fast Streaming Inserts in DuckDB with ADBC](https://arrow.apache.org/blog/2025/03/10/fast-streaming-inserts-in-duckdb-with-adbc/) - Apache Arrow Blog post by Loïc Alleyne.
 - [DuckDB ADBC – Zero-Copy Data Transfer via Arrow Database Connectivity](https://duckdb.org/2023/08/04/adbc) - DuckDB Engineering Blog post by Pedro Holanda.
+- [Arrow Database Connectivity (ADBC) Support for Snowflake](https://medium.com/snowflake/arrow-database-connectivity-adbc-support-for-snowflake-7bfb3a2d9074) - Snowflake Engineering Blog post on the ADBC driver and cross-language use cases.
+- [A Deep Dive into ADBC Driver Optimization](https://columnar.tech/blog/adbc-driver-optimization-deep-dive/) - Columnar Blog post on performance engineering across BigQuery, SQL Server, MySQL, and Trino drivers.
+- [Announcing the ADBC Driver Foundry](https://adbc-drivers.org/2025/10/29/announcing-adbc-driver-foundry.html) - ADBC Driver Foundry Blog post on the federated driver-development effort.
 
 ### Examples
 
@@ -68,3 +72,9 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [Where We’re Going, We Don’t Need Rows: Columnar Data Connectivity with Apache Arrow ADBC](https://www.youtube.com/watch?v=TjlmNGNx77E) - CMU Database Group seminar by Ian Cook.
 - [From ODBC to ADBC: Modernizing the Data Stack for AI and Analytics](https://www.youtube.com/watch?v=j75BIlqzhUk) - The Joe Reis Show episode with Ian Cook.
 - [ODBC Takes an Arrow to the Kne](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-4803-odbc-takes-an-arrow-to-the-knee/) - FOSDEM talk by Matt Topol.
+- [Machine Learning with ADBC, DuckDB, and XGBoost](https://www.youtube.com/watch?v=J6CawwGwdyk) - Hands-on walkthrough showing an Arrow-native ML pipeline.
+- [IO + SQL + ADBC Drivers](https://www.youtube.com/watch?v=ZL9n1nrVUcQ) - Talk by Will Ayd on practical SQL and type-safety-oriented driver usage.
+
+## Community Bindings
+
+- [Elixir `adbc`](https://github.com/elixir-explorer/adbc) - Apache Arrow ADBC bindings for Elixir, maintained in the Explorer ecosystem.
