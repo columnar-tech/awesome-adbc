@@ -9,6 +9,7 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [Official](#official)
 - [Drivers](#drivers)
 - [Tools](#tools)
+- [Integrations](#integrations)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Examples](#examples)
@@ -49,6 +50,11 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [Power BI](https://learn.microsoft.com/en-us/power-bi/) - Microsoft's business analytics platform.
 - [Polars](https://docs.pola.rs/) - Blazingly fast DataFrame library for manipulating structured data.
 - [Sling](https://docs.slingdata.io/) - CLI tool that extracts data from a source and loads it in a target.
+
+## Integrations
+
+- [Apache DataFusion](https://github.com/datafusion-contrib/datafusion-table-providers/) - ADBC table provider for DataFusion.
+- [Dagster](https://docs.dagster.io/integrations/libraries/adbc) - ADBC resource for Dagster.
 
 ## Resources
 
