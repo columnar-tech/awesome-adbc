@@ -42,6 +42,7 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 
 - [databow](https://github.com/columnar-tech/databow) - Command-line tool for querying databases via ADBC.
 - [dbc](https://docs.columnar.tech/dbc/) - Command-line tool for installing and managing ADBC drivers.
+- [dbt Core v2](https://docs.getdbt.com/docs/dbt-versions/core-upgrade/upgrading-to-v2?version=2.0) - Open source data transformation tool.
 - [dbt Fusion engine](https://docs.getdbt.com/docs/fusion) - The next-generation engine for dbt.
 - [dlt](https://dlthub.com/docs/intro) - Open source Python library that makes data loading easy.
 - [Harlequin](https://harlequin.sh/) - SQL IDE for your teminal.
