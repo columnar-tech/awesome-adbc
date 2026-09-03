@@ -23,17 +23,21 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 ## Drivers
 
 - [Amazon Redshift](https://github.com/adbc-drivers/redshift) - ADBC driver for Amazon Redshift developed by Columnar.
+- [Apache Cassandra](https://github.com/adbc-drivers/cassandra) - ADBC driver for Apache Cassandra developed by the ADBC Driver Foundry.
 - [Apache DataFusion](https://github.com/adbc-drivers/datafusion) - ADBC driver for Apache DataFusion developed by the ADBC Driver Foundry.
 - [Apache Spark](https://github.com/adbc-drivers/spark) - ADBC driver for Apache Spark developed by the ADBC Driver Foundry.
 - [Arrow Flight SQL](https://github.com/apache/arrow-adbc/tree/main/c/driver/flightsql) - ADBC driver for Apache Arrow Flight SQL developed under the Apache Software Foundation.
 - [BigQuery](https://github.com/adbc-drivers/bigquery) - ADBC driver for BigQuery developed by the ADBC Driver Foundry.
+- [chDB](https://clickhouse.com/docs/chdb/install/adbc) - An ADBC driver for chDB developed by ClickHouse, Inc.
 - [ClickHouse](https://github.com/ClickHouse/adbc_clickhouse) - ADBC driver for ClickHouse developed by ClickHouse, Inc.
 - [Databricks](https://github.com/adbc-drivers/databricks) - ADBC Driver for Databricks developed by the ADBC Driver Foundry.
 - [DuckDB](https://duckdb.org/docs/current/clients/adbc) - ADBC driver for DuckDB developed by the DuckDB Foundation.
+- [DuckDB Quack](https://github.com/adbc-drivers/quack) - An ADBC driver for DuckDB Quack developed by the ADBC Driver Foundry.
 - [Exasol](https://github.com/exasol-labs/exarrow-rs) - ADBC driver for Exasol developed by Exasol Labs.
 - [Microsoft SQL Server](https://github.com/adbc-drivers/mssql) - ADBC driver for Microsoft SQL Server developed by Columnar.
 - [MySQL](https://github.com/adbc-drivers/mysql) - ADBC Driver for MySQL developed by the ADBC Driver Foundry.
 - [PostgreSQL](https://github.com/apache/arrow-adbc/tree/main/c/driver/postgresql) - ADBC driver for PostgreSQL developed under the Apache Software Foundation.
+- [Presto](https://github.com/adbc-drivers/presto) - An ADBC Driver for Presto developed by the ADBC Driver Foundry.
 - [SingleStore](https://github.com/singlestore-labs/singlestore-adbc-connector) - ADBC driver for SingleStore developed by SingleStore.
 - [Snowflake](https://github.com/adbc-drivers/snowflake) - ADBC driver for Snowflake developed under the Apache Software Foundation.
 - [SQLite](https://github.com/apache/arrow-adbc/tree/main/c/driver/sqlite) - ADBC driver for SQLite developed under the Apache Software Foundation.
