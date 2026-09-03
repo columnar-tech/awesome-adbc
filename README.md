@@ -51,9 +51,10 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [dbt Fusion engine](https://docs.getdbt.com/docs/fusion) - The next-generation engine for dbt.
 - [dlt](https://dlthub.com/docs/intro) - Open source Python library that makes data loading easy.
 - [Harlequin](https://harlequin.sh/) - SQL IDE for your teminal.
+- [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric/) - Microsoft's end‑to‑end data platform.
+- [Microsoft Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/) - Microsoft's business analytics platform.
 - [Observable](https://observablehq.com/) - Lightweight documents that let you think, explore, and explain with code.
 - [pandas](https://pandas.pydata.org/) - Open source data analysis and manipulation tool.
-- [Power BI](https://learn.microsoft.com/en-us/power-bi/) - Microsoft's business analytics platform.
 - [Polars](https://docs.pola.rs/) - Blazingly fast DataFrame library for manipulating structured data.
 - [Sling](https://docs.slingdata.io/) - CLI tool that extracts data from a source and loads it in a target.
 
