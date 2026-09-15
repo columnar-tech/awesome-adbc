@@ -25,6 +25,7 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [Amazon Redshift](https://github.com/adbc-drivers/redshift) - ADBC driver for Amazon Redshift developed by Columnar.
 - [Apache Cassandra](https://github.com/adbc-drivers/cassandra) - ADBC driver for Apache Cassandra developed by the ADBC Driver Foundry.
 - [Apache DataFusion](https://github.com/adbc-drivers/datafusion) - ADBC driver for Apache DataFusion developed by the ADBC Driver Foundry.
+- [Apache Druid](https://github.com/adbc-drivers/druid) - ADBC driver for Apache Druid developed by the ADBC Driver Foundry.
 - [Apache Spark](https://github.com/adbc-drivers/spark) - ADBC driver for Apache Spark developed by the ADBC Driver Foundry.
 - [Arrow Flight SQL](https://github.com/apache/arrow-adbc/tree/main/c/driver/flightsql) - ADBC driver for Apache Arrow Flight SQL developed under the Apache Software Foundation.
 - [BigQuery](https://github.com/adbc-drivers/bigquery) - ADBC driver for BigQuery developed by the ADBC Driver Foundry.
