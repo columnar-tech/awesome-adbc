@@ -35,6 +35,7 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [DuckDB](https://duckdb.org/docs/current/clients/adbc) - ADBC driver for DuckDB developed by the DuckDB Foundation.
 - [DuckDB Quack](https://github.com/adbc-drivers/quack) - ADBC driver for DuckDB Quack developed by the ADBC Driver Foundry.
 - [Exasol](https://github.com/exasol-labs/exarrow-rs) - ADBC driver for Exasol developed by Exasol Labs.
+- [Grainlift](https://query.farm/products/grainlift/) - ADBC proxy driver for accessing server-side ADBC drivers and custom data services, developed by Query.Farm.
 - [Microsoft SQL Server](https://github.com/adbc-drivers/mssql) - ADBC driver for Microsoft SQL Server developed by Columnar.
 - [MySQL](https://github.com/adbc-drivers/mysql) - ADBC Driver for MySQL developed by the ADBC Driver Foundry.
 - [PostgreSQL](https://github.com/apache/arrow-adbc/tree/main/c/driver/postgresql) - ADBC driver for PostgreSQL developed under the Apache Software Foundation.
@@ -62,7 +63,9 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 ## Integrations
 
 - [Apache DataFusion](https://github.com/datafusion-contrib/datafusion-table-providers/) - ADBC table provider for DataFusion.
+- [Cloudflare Workers (Grainlift)](https://github.com/Query-farm/grainlift-cloudflare) - Gateway exposing SQLite-backed Durable Objects, D1, and Workers Analytics Engine through the Grainlift ADBC driver.
 - [Dagster](https://docs.dagster.io/integrations/libraries/adbc) - ADBC resource for Dagster.
+- [DuckDB ADBC Scanner](https://query.farm/products/extensions/adbc_scanner/) - DuckDB extension for querying external databases and bulk ingesting data through ADBC drivers.
 
 ## Resources
 
