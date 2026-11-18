@@ -35,6 +35,8 @@ A curated list of awesome [ADBC](https://arrow.apache.org/adbc/current/index.htm
 - [DuckDB](https://duckdb.org/docs/current/clients/adbc) - ADBC driver for DuckDB developed by the DuckDB Foundation.
 - [DuckDB Quack](https://github.com/adbc-drivers/quack) - ADBC driver for DuckDB Quack developed by the ADBC Driver Foundry.
 - [Exasol](https://github.com/exasol-labs/exarrow-rs) - ADBC driver for Exasol developed by Exasol Labs.
+- [Firebolt](https://github.com/adbc-drivers/firebolt) - ADBC driver for Firebolt developed by the ADBC Driver Foundry.
+- [MariaDB](https://github.com/adbc-drivers/mariadb) - ADBC driver for MariaDB developed by the ADBC Driver Foundry.
 - [Microsoft SQL Server](https://github.com/adbc-drivers/mssql) - ADBC driver for Microsoft SQL Server developed by Columnar.
 - [MotherDuck](https://github.com/adbc-drivers/motherduck) - ADBC driver for MotherDuck developed by the ADBC Driver Foundry with support from MotherDuck.
 - [MySQL](https://github.com/adbc-drivers/mysql) - ADBC Driver for MySQL developed by the ADBC Driver Foundry.
